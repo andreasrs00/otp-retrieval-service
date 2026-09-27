@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+*.log
+coverage/
+profile/
+profiles/
+chrome-profile/
+**/Cookies
+**/Local State
+*.zip
